@@ -1,5 +1,5 @@
- 🌱Senior in HUST currently
- 🔭Major in CSE, About to Working For Meituan
+ - 🌱Senior in HUST currently
+ - 🔭Major in CSE, About to working For Meituan
 
 <!--
 **burden-3/burden-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
